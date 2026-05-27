@@ -1,0 +1,10 @@
+# RepoLedger generated local cache
+.repoledger/cache/
+.repoledger/*.sqlite
+.repoledger/*.sqlite-wal
+.repoledger/*.sqlite-shm
+.repoledger/*.sqlite-journal
+
+# Local agent/tooling caches
+.repo-index/
+.repoledger/
